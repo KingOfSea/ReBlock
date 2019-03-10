@@ -1,0 +1,6 @@
+framework module RBTestKit {
+  umbrella header "RBTestKit.h"
+
+  export *
+  module * { export * }
+}
